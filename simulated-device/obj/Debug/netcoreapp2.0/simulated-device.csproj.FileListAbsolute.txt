@@ -1,0 +1,11 @@
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.0\simulated-device.deps.json
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.0\simulated-device.runtimeconfig.json
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.0\simulated-device.runtimeconfig.dev.json
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.0\simulated-device.dll
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.0\simulated-device.pdb
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.0\simulated-device.csprojResolveAssemblyReference.cache
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.0\simulated-device.csproj.CoreCompileInputs.cache
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.0\simulated-device.AssemblyInfoInputs.cache
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.0\simulated-device.AssemblyInfo.cs
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.0\simulated-device.dll
+D:\IoTHack\azure-iot-samples-csharp-master\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.0\simulated-device.pdb
